@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoAudioPlayer</string>
+    <string name="pause">Pause</string>
+    <string name="play">song1</string>
+    <string name="song_2">song 2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>
